@@ -62,6 +62,10 @@ echo "The Unarchiver"
 brew cask install the-unarchiver
 echo "OpenEmu"
 brew cask install openemu
+echo "Unity3D"
+brew cask install unity
+echo "GitHub"
+brew cask install github
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
