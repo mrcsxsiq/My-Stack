@@ -14,9 +14,9 @@ echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
 echo ""
 
 echo "brew.sh"
-#/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 echo "wget"
-#brew install wget
+brew install wget
 
 echo ""
 echo "INSTALANDO FERRAMENTAS DE DESENVOLVIMENTO"
@@ -24,9 +24,9 @@ echo ""
 
 echo "Node"
 echo "PHP"
-#brew install php70
-#brew install mcrypt php70-mcryp
-#brew install composer
+brew install php70
+brew install mcrypt php70-mcryp
+brew install composer
 echo "Mongo"
 brew install mongodb
 echo "Quasar Framework"
@@ -40,7 +40,7 @@ echo ""
 
 echo "Firefox"
 echo "Chrome"
-brew cask install slack
+brew cask install google-chrome
 echo "Slack"
 brew cask install slack
 echo "Android Studio"
