@@ -39,14 +39,29 @@ echo "INSTALANDO PROGRAMAS"
 echo ""
 
 echo "Firefox"
+brew cask install firefox
 echo "Chrome"
 brew cask install google-chrome
 echo "Slack"
 brew cask install slack
 echo "Android Studio"
+brew cask install android-studio
 echo "Day-O"
+brew cask install day-o
 echo "Atom"
+brew cask install atom
+echo "Skype"
+brew cask install skype
 echo "Docker"
+brew cask install docker
+echo "Postman"
+brew cask install postman
+echo "Arduino"
+brew cask install arduino
+echo "The Unarchiver"
+brew cask install the-unarchiver
+echo "OpenEmu"
+brew cask install openemu
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
