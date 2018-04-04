@@ -66,6 +66,8 @@ echo "Unity3D"
 brew cask install unity
 echo "GitHub"
 brew cask install github
+echo "Spotify"
+brew cask install spotify
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
