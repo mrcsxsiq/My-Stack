@@ -82,6 +82,10 @@ echo "MonoDevelop"
 brew cask install unity-monodevelop
 echo "Visual Studio Code"
 brew cask install visual-studio-code
+echo "OneDrive"
+brew cask install onedrive
+echo "Backup and Sync"
+brew cask install google-backup-and-sync
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
