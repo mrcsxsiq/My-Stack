@@ -76,6 +76,8 @@ echo "Steam"
 brew cask install steam
 echo "VLC"
 brew cask install vlc
+echo "EverNote"
+brew cask install evernote
 echo "Dropbox"
 brew cask install dropbox
 echo "MonoDevelop"
