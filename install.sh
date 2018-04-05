@@ -17,6 +17,8 @@ echo "brew.sh"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 echo "wget"
 brew install wget
+echo "youtube-dl"
+brew install youtube-dl
 
 echo ""
 echo "INSTALANDO FERRAMENTAS DE DESENVOLVIMENTO"
@@ -70,6 +72,16 @@ echo "Spotify"
 brew cask install spotify
 echo "XMind"
 brew cask install xmind
+echo "Steam"
+brew cask install steam
+echo "VLC"
+brew cask install vlc
+echo "Dropbox"
+brew cask install dropbox
+echo "MonoDevelop"
+brew cask install unity-monodevelop
+echo "Visual Studio Code"
+brew cask install visual-studio-code
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
