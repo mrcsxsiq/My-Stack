@@ -1,5 +1,13 @@
 # My-Stack
 
+### Instalação
+
+```
+bash <(curl -s https://github.com/mrcsxsiq/My-Stack/blob/master/install.sh)
+```
+
+### Conteúdo
+
 ### Programas
 
 - [X] Firefox
