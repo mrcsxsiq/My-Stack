@@ -1,12 +1,12 @@
 # My-Stack
 
-### Instalação
+## Instalação
 
 ```
 bash <(curl -s https://github.com/mrcsxsiq/My-Stack/blob/master/install.sh)
 ```
 
-### Conteúdo
+## Conteúdo
 
 ### Programas
 
