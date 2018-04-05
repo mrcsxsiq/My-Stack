@@ -1,4 +1,4 @@
-# My-Stack
+# My Stack
 
 Script de instalação dos programas e ferramentas que eu considero essenciais para meu dia a dia 
 
