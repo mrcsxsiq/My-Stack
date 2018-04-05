@@ -62,9 +62,9 @@ Caso queria ver quais plugins serão instalados, [clique aqui](https://gist.gith
 
 ### Nuvem
 
-- [ ] Backup & Sync
+- [X] Backup & Sync
 - [X] Dropbox
-- [ ] OneDrive
+- [X] OneDrive
 
 ### Comunicadores
 
