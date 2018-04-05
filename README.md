@@ -1,6 +1,9 @@
 # My-Stack
 
+
 ## Instalação
+
+Apenas digitar no terminal o comando abaixo
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/mrcsxsiq/My-Stack/master/install.sh)
@@ -8,26 +11,54 @@ bash <(curl -s https://raw.githubusercontent.com/mrcsxsiq/My-Stack/master/instal
 
 ## Conteúdo
 
-### Programas
+### Utilitários de Linha de Comando
 
+- [X] brew
+- [X] wget
+- [ ] youtube-dl
+
+### Ferramentas de Desenvolvimento
+
+- [ ] Node
+- [X] PHP
+- [X] Mongo"
+- [ ] Quasar Framework
+- [ ] VueJS
+- [X] Arduino
+- [X] Unity3D
+- [ ] MonoDevelop
+- [X] Postman
+- [X] Docker
+- [ ] XCode
+- [X] Android Studio
+- [ ] Visual Studio Code
+
+### Programas Essenciais
+
+- [X] Atom
 - [X] Firefox
 - [X] Chrome
-- [X] Slack
-- [X] Android Studio
 - [X] Day-O
-- [X] Atom
-- [X] Skype
-- [X] Docker
-- [X] Postman
-- [X] Arduino
 - [X] The Unarchiver
-- [X] OpenEmu
-- [X] Unity3D
 - [X] GitHub
 - [X] Spotify
 - [X] XMind
 - [ ] VLC
+- [ ] Microsoft Office
 - [ ] OneNote
-- [ ] Steam
+
+### Nuvem
+
+- [ ] Backup & Sync
 - [ ] Dropbox
 - [ ] OneDrive
+
+### Comunicadores
+
+- [X] Slack
+- [X] Skype
+
+### Diversão
+
+- [ ] Steam
+- [X] OpenEmu
