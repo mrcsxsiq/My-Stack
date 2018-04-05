@@ -1,5 +1,11 @@
 # My-Stack
 
+Script de instalação dos programas e ferramentas que eu considero essenciais para meu dia a dia 
+
+## Requisitos
+
+- macOS High Sierra 10.13.3 (17D102) ou superior
+- Conexão com internet
 
 ## Instalação
 
@@ -10,6 +16,8 @@ bash <(curl -s https://raw.githubusercontent.com/mrcsxsiq/My-Stack/master/instal
 ```
 
 ## Conteúdo
+
+Essa é a lista das coisas que serão instaladas
 
 ### Utilitários de Linha de Comando
 
