@@ -23,10 +23,11 @@ Essa é a lista das coisas que serão instaladas
 
 - [X] brew
 - [X] wget
-- [ ] youtube-dl
+- [x] youtube-dl
 
 ### Ferramentas de Desenvolvimento
 
+- [ ] XCode
 - [ ] Node
 - [X] PHP
 - [X] Mongo"
@@ -34,12 +35,11 @@ Essa é a lista das coisas que serão instaladas
 - [ ] VueJS
 - [X] Arduino
 - [X] Unity3D
-- [ ] MonoDevelop
+- [X] MonoDevelop
 - [X] Postman
 - [X] Docker
-- [ ] XCode
 - [X] Android Studio
-- [ ] Visual Studio Code
+- [X] Visual Studio Code
 
 ### Programas Essenciais
 
@@ -51,14 +51,19 @@ Essa é a lista das coisas que serão instaladas
 - [X] GitHub
 - [X] Spotify
 - [X] XMind
-- [ ] VLC
+- [X] VLC
 - [ ] Microsoft Office
 - [ ] OneNote
+
+### Plugins para Atom
+
+- [X] Diversos plugins para o Atom
+Caso queria ver quais plugins serão instalados, [clique aqui](https://gist.github.com/mrcsxsiq/7729d03b268155a862352f61bb22778e)
 
 ### Nuvem
 
 - [ ] Backup & Sync
-- [ ] Dropbox
+- [X] Dropbox
 - [ ] OneDrive
 
 ### Comunicadores
@@ -68,5 +73,5 @@ Essa é a lista das coisas que serão instaladas
 
 ### Diversão
 
-- [ ] Steam
+- [X] Steam
 - [X] OpenEmu
