@@ -31,7 +31,7 @@ Essa é a lista das coisas que serão instaladas
 - [ ] XCode
 - [ ] Node
 - [X] PHP
-- [X] Mongo"
+- [X] Mongo
 - [ ] Quasar Framework
 - [ ] VueJS
 - [X] Arduino
@@ -59,6 +59,7 @@ Essa é a lista das coisas que serão instaladas
 ### Plugins para Atom
 
 - [X] Diversos plugins para o Atom
+
 Caso queria ver quais plugins serão instalados, [clique aqui](https://gist.github.com/mrcsxsiq/7729d03b268155a862352f61bb22778e)
 
 ### Nuvem
