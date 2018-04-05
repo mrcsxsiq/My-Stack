@@ -53,6 +53,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] Spotify
 - [X] XMind
 - [X] VLC
+- [X] EverNote
 - [ ] Microsoft Office
 - [ ] OneNote
 
