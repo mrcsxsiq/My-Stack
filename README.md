@@ -3,7 +3,7 @@
 ## Instalação
 
 ```
-bash <(curl -s https://github.com/mrcsxsiq/My-Stack/blob/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/mrcsxsiq/My-Stack/master/install.sh)
 ```
 
 ## Conteúdo
