@@ -23,7 +23,8 @@ Essa é a lista das coisas que serão instaladas
 
 - [X] brew
 - [X] wget
-- [x] youtube-dl
+- [X] youtube-dl
+- [ ] Oh My ZSH
 
 ### Ferramentas de Desenvolvimento
 
