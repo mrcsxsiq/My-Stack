@@ -68,12 +68,17 @@ echo "GitHub"
 brew cask install github
 echo "Spotify"
 brew cask install spotify
+echo "XMind"
+brew cask install xmind
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
 echo ""
 
+echo ""
 echo "Configurando Oh My ZSH"
+echo ""
+
 echo ""
 echo "Configurando plugins do ATOM"
 echo ""
