@@ -41,6 +41,13 @@ Essa é a lista das coisas que serão instaladas
 - [X] Docker
 - [X] Android Studio
 - [X] Visual Studio Code
+- [X] VirtualBox
+- [X] Etcher
+- [X] GitHub
+- [X] Sourcetree
+- [X] CocosCreator
+- [ ] CraftWare
+- [X] Icons8
 
 ### Programas Essenciais
 
@@ -49,11 +56,11 @@ Essa é a lista das coisas que serão instaladas
 - [X] Chrome
 - [X] Day-O
 - [X] The Unarchiver
-- [X] GitHub
-- [X] Spotify
 - [X] XMind
 - [X] VLC
 - [X] EverNote
+- [ ] Trello
+- [ ] Todoist
 - [ ] Microsoft Office
 - [ ] OneNote
 
@@ -68,6 +75,8 @@ Para ver a lista de plugins, [clique aqui](https://gist.github.com/mrcsxsiq/7729
 - [X] Backup & Sync
 - [X] Dropbox
 - [X] OneDrive
+- [X] Transmission
+- [X] Cyberduck
 
 ### Comunicadores
 
@@ -76,5 +85,9 @@ Para ver a lista de plugins, [clique aqui](https://gist.github.com/mrcsxsiq/7729
 
 ### Diversão
 
+- [X] Spotify
+- [X] SpotMenu
 - [X] Steam
 - [X] OpenEmu
+- [X] Musixmatch
+- [ ] PPSSPP
