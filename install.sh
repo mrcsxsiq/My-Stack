@@ -88,6 +88,26 @@ echo "OneDrive"
 brew cask install onedrive
 echo "Backup and Sync"
 brew cask install google-backup-and-sync
+echo "Transmission"
+brew cask install transmission
+echo "VirtualBox"
+brew cask install virtualbox
+echo "Etcher"
+brew cask install etcher
+echo "Cyberduck"
+brew cask install cyberduck
+echo "Spotmenu"
+brew cask install spotmenu
+echo "Musixmatch"
+brew cask install musixmatch
+echo "CocosCreator"
+brew cask install cocoscreator
+echo "Botframework-Emulator"
+brew cask install botframework-emulator
+echo "Sourcetree"
+brew cask install sourcetreee
+echo "Icons8"
+brew cask install icons8
 
 echo ""
 echo "INSTALANDO BIBLIOTECAS"
