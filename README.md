@@ -24,6 +24,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] brew
 - [X] wget
 - [X] youtube-dl
+- [X] xquartz
 - [ ] Oh My ZSH
 
 ### Ferramentas de Desenvolvimento
