@@ -18,7 +18,7 @@ echo "brew.sh"
 echo "wget"
 brew install wget
 echo "xquartz"
-brew cask install xquartz
+brew install cask xquartz
 echo "youtube-dl"
 brew install youtube-dl
 
