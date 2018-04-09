@@ -17,6 +17,8 @@ echo "brew.sh"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 echo "wget"
 brew install wget
+echo "xquartz"
+brew cask install xquartz
 echo "youtube-dl"
 brew install youtube-dl
 
