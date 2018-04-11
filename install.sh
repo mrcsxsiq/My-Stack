@@ -9,24 +9,17 @@ echo "                                             | |"
 echo "                                             |_|"
 echo ""
 
-echo ""
-echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
-echo ""
-
 echo "brew.sh"
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-echo "wget"
-brew install wget
-echo "xquartz"
-brew install cask xquartz
-echo "youtube-dl"
-brew install youtube-dl
 
 echo ""
 echo "INSTALANDO FERRAMENTAS DE DESENVOLVIMENTO"
 echo ""
 
-echo "Node"
+echo "Python 3"
+brew install python 3
+sudo easy_install pip 
+echo "Node" 
 echo "PHP"
 brew install php70
 brew install mcrypt php70-mcryp
@@ -37,6 +30,20 @@ echo "Quasar Framework"
 echo "VueJS"
 echo ""
 echo ""
+
+
+echo ""
+echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
+echo ""
+
+echo "wget"
+brew install wget
+echo "xquartz"
+brew install cask xquartz
+echo "youtube-dl"
+brew install youtube-dl
+echo "adb-wifi"
+sudo pip install adb-wifi
 
 echo ""
 echo "INSTALANDO PROGRAMAS"
