@@ -24,6 +24,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] brew
 - [X] wget
 - [X] youtube-dl
+- [X] adb-wifi
 - [X] xquartz
 - [ ] Oh My ZSH
 
@@ -31,6 +32,7 @@ Essa é a lista das coisas que serão instaladas
 
 - [ ] XCode
 - [ ] Node
+- [X] Python 3
 - [X] PHP
 - [X] Mongo
 - [ ] Quasar Framework
