@@ -20,6 +20,7 @@ echo "Python 3"
 brew install python3
 sudo easy_install pip 
 echo "Node" 
+brew install node
 echo "PHP"
 brew install php70
 brew install mcrypt php70-mcryp
@@ -27,10 +28,9 @@ brew install composer
 echo "Mongo"
 brew install mongodb
 echo "Quasar Framework"
+sudo npm install -g quasar-cli
 echo "VueJS"
-echo ""
-echo ""
-
+sudo npm install -g vue-cli
 
 echo ""
 echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
