@@ -27,10 +27,10 @@ brew install mcrypt php70-mcryp
 brew install composer
 echo "Mongo"
 brew install mongodb
-echo "Quasar Framework"
-sudo npm install -g quasar-cli
 echo "VueJS"
 sudo npm install -g vue-cli
+echo "Quasar Framework"
+sudo npm install -g quasar-cli
 
 echo ""
 echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
