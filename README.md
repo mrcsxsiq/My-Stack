@@ -31,12 +31,12 @@ Essa é a lista das coisas que serão instaladas
 ### Ferramentas de Desenvolvimento
 
 - [ ] XCode
-- [ ] Node
+- [X] Node
 - [X] Python 3
 - [X] PHP
 - [X] Mongo
-- [ ] Quasar Framework
-- [ ] VueJS
+- [X] Quasar Framework
+- [X] VueJS
 - [X] Arduino
 - [X] Unity3D
 - [X] MonoDevelop
