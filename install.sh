@@ -17,7 +17,7 @@ echo "INSTALANDO FERRAMENTAS DE DESENVOLVIMENTO"
 echo ""
 
 echo "Python 3"
-brew install python 3
+brew install python3
 sudo easy_install pip 
 echo "Node" 
 echo "PHP"
