@@ -32,6 +32,7 @@ Essa é a lista das coisas que serão instaladas
 
 - [ ] XCode
 - [X] Node
+- [X] Java
 - [X] Python 3
 - [X] PHP
 - [X] Mongo
