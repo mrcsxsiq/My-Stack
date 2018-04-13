@@ -94,3 +94,7 @@ Para ver a lista de plugins, [clique aqui](https://gist.github.com/mrcsxsiq/7729
 - [X] OpenEmu
 - [X] Musixmatch
 - [ ] PPSSPP
+
+### Personalização
+
+- [X] padbury-clock
