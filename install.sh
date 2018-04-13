@@ -119,6 +119,13 @@ echo "Icons8"
 brew cask install icons8
 
 echo ""
+echo "INSTALANDO PERSONALIZAÇÕES"
+echo ""
+
+echo "padbury-clock"
+brew cask install padbury-clock
+
+echo ""
 echo "INSTALANDO BIBLIOTECAS"
 echo ""
 
