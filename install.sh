@@ -136,7 +136,7 @@ echo ""
 echo ""
 echo "Configurando plugins do ATOM"
 echo ""
-apm install teletype
+
 apm install prettier-atom
 apm install todo-show
 apm install touchbar-utility
@@ -161,6 +161,7 @@ apm install linter
 apm install color-picker
 apm install atom-clock
 apm install teletype
+
 echo ""
 echo ""
 echo "Terminou!"
