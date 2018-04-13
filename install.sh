@@ -21,6 +21,8 @@ brew install python3
 sudo easy_install pip 
 echo "Node" 
 brew install node
+echo "Java" 
+brew cask install java
 echo "PHP"
 brew install php70
 brew install mcrypt php70-mcryp
