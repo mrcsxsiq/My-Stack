@@ -48,6 +48,8 @@ echo "youtube-dl"
 brew install youtube-dl
 echo "adb-wifi"
 sudo pip install adb-wifi
+echo "gitbook"
+sudo npm install -g gitbook-cli
 
 echo ""
 echo "INSTALANDO PROGRAMAS"
