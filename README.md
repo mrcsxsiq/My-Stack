@@ -26,6 +26,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] youtube-dl
 - [X] adb-wifi
 - [X] xquartz
+- [X] ngrok
 - [ ] Oh My ZSH
 
 ### Ferramentas de Desenvolvimento
