@@ -40,6 +40,8 @@ echo ""
 
 echo "wget"
 brew install wget
+echo "ngrok"
+brew cask install ngrok
 echo "xquartz"
 brew install cask xquartz
 echo "youtube-dl"
