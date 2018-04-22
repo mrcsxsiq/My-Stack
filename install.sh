@@ -33,6 +33,8 @@ echo "VueJS"
 sudo npm install -g vue-cli
 echo "Quasar Framework"
 sudo npm install -g quasar-cli
+echo "CocoaPods"
+sudo gem install cocoapods
 
 echo ""
 echo "INSTALANDO UTILITÁRIOS DE LINHA DE COMANDO"
