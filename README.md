@@ -40,6 +40,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] Mongo
 - [X] Quasar Framework
 - [X] VueJS
+- [X] CocoaPods
 - [X] Arduino
 - [X] Unity3D
 - [X] MonoDevelop
