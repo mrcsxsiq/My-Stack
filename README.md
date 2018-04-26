@@ -101,5 +101,4 @@ Para ver a lista de plugins, [clique aqui](https://gist.github.com/mrcsxsiq/7729
 
 ### Personalização
 
-- [X] KPSaver
 - [X] padbury-clock
