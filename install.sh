@@ -57,8 +57,6 @@ echo ""
 echo "INSTALANDO PROGRAMAS"
 echo ""
 
-echo "KPSaver"
-brew cask install kpsaver
 echo "Firefox"
 brew cask install firefox
 echo "Chrome"
