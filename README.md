@@ -92,6 +92,7 @@ Para ver a lista de plugins, [clique aqui](https://gist.github.com/mrcsxsiq/7729
 
 ### Diversão
 
+- [X] Sketchbook
 - [X] Spotify
 - [X] SpotMenu
 - [X] Steam
