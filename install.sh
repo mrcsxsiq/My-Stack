@@ -123,6 +123,8 @@ echo "Botframework-Emulator"
 brew cask install botframework-emulator
 echo "Sourcetree"
 brew cask install sourcetreee
+echo "SketchBook"
+brew cask install sketchbook
 echo "Icons8"
 brew cask install icons8
 
