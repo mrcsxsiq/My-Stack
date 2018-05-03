@@ -171,6 +171,7 @@ apm install linter
 apm install color-picker
 apm install atom-clock
 apm install teletype
+apm install pdf-view
 
 echo ""
 echo ""
