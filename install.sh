@@ -52,6 +52,8 @@ echo "adb-wifi"
 sudo pip install adb-wifi
 echo "gitbook"
 sudo npm install -g gitbook-cli
+echo "scrcpy"
+brew install scrcpy
 
 echo ""
 echo "INSTALANDO PROGRAMAS"
