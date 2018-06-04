@@ -28,6 +28,7 @@ Essa é a lista das coisas que serão instaladas
 - [X] xquartz
 - [X] ngrok
 - [X] gitbook
+- [X] scrcpy
 - [ ] Oh My ZSH
 
 ### Ferramentas de Desenvolvimento
