@@ -144,6 +144,13 @@ echo ""
 echo ""
 echo "Configurando Oh My ZSH"
 echo ""
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+echo ""
+echo "Configurando Spaceship ZSH "
+echo ""
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+npm install -g spaceship-prompt
 
 echo ""
 echo "Configurando plugins do ATOM"
