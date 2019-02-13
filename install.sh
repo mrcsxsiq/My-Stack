@@ -54,6 +54,8 @@ echo "gitbook"
 sudo npm install -g gitbook-cli
 echo "scrcpy"
 brew install scrcpy
+echo "Androiod Platform Tools"
+brew install homebrew/cask/android-platform-tools
 
 echo ""
 echo "INSTALANDO PROGRAMAS"
